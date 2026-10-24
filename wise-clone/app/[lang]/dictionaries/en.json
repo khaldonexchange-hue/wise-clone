@@ -1,0 +1,292 @@
+{
+  "nav": {
+    "personal": "Personal",
+    "business": "Business",
+    "platform": "Platform",
+    "features": "Features",
+    "pricing": "Transfer costs",
+    "help": "Help",
+    "about": "About us",
+    "services": "Services",
+    "branches": "Branches",
+    "news": "Destinations that connect you",
+    "login": "Log in",
+    "register": "Get in touch",
+    "call": "Call us"
+  },
+  "about": {
+    "title": "Khaldon Gamil. Exchange and transfers, with a human touch.",
+    "text": "We help individuals and businesses exchange currencies and arrange outgoing and incoming transfers. Our team explains available options, costs, and requirements before you confirm. Contact us on WhatsApp or visit our Sana’a office. We provide exchange and financial intermediary services, not banking, an app, or bank accounts.",
+    "principles": [
+      "Talk directly to our team",
+      "Review details before proceeding",
+      "Follow your request step by step"
+    ]
+  },
+  "services": {
+    "title": "Our services",
+    "sub": "Remittance, foreign exchange and payments for individuals and businesses.",
+    "more": "Read more",
+    "items": [
+      {
+        "title": "Remittance Services",
+        "text": "Arrange outgoing and incoming transfers through available routes and delivery methods."
+      },
+      {
+        "title": "Foreign Exchange",
+        "text": "Ask about available currencies and exchange rates at the time of your request."
+      },
+      {
+        "title": "Bill Payments",
+        "text": "Contact us to check available billers and payment methods."
+      },
+      {
+        "title": "Corporate Services",
+        "text": "Arrange business exchange and transfer needs according to each request."
+      }
+    ]
+  },
+  "branches": {
+    "title": "Find a branch near you",
+    "sub": "Visit us for transfers, exchange and more.",
+    "all": "All",
+    "items": [
+      {
+        "name": "Main Branch - Sana'a",
+        "city": "Sana'a",
+        "address": "Yemen, Sana'a, Al-Qasr Street, behind Taj Sheba Hotel",
+        "phone": "+967 777 222 786",
+        "hours": ""
+      },
+      {
+        "name": "Russia branch — Moscow City",
+        "city": "Moscow",
+        "address": "Moscow City, Russia",
+        "phone": "",
+        "hours": ""
+      },
+      {
+        "name": "Türkiye branch — Istanbul, Aksaray",
+        "city": "Istanbul",
+        "address": "Aksaray, Istanbul, Türkiye",
+        "phone": "",
+        "hours": ""
+      }
+    ]
+  },
+  "partners": {
+    "title": "Our future services",
+    "sub": "Services we aim to add. Not currently available; logos do not indicate existing partnerships.",
+    "items": [
+      "Western Union",
+      "MoneyGram",
+      "Zain Cash",
+      "FIB",
+      "Switch"
+    ]
+  },
+  "steps": {
+    "title": "How to request a service",
+    "items": [
+      {
+        "title": "1. Contact our team",
+        "text": "Share the destination, amount, and currency on WhatsApp or visit us."
+      },
+      {
+        "title": "2. Review the details",
+        "text": "Check rates, fees, requirements, and expected timing before agreeing."
+      },
+      {
+        "title": "3. Confirm and follow up",
+        "text": "Once details are agreed and requirements met, follow your request with our team."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Before your transfer",
+    "items": [
+      {
+        "q": "How do I request a service?",
+        "a": "Contact us on WhatsApp or visit our office with the destination, amount, and currency. Our team explains available options and requirements before confirmation."
+      },
+      {
+        "q": "Which destinations are available?",
+        "a": "Explore the destinations section, then contact us to confirm availability and delivery options for your specific request."
+      },
+      {
+        "q": "How are rates and fees determined?",
+        "a": "Our team provides the exchange rate, fees, and expected payout based on the destination, currency, and delivery method before you agree to proceed."
+      },
+      {
+        "q": "How long does a transfer take?",
+        "a": "Timing depends on the destination, delivery method, and processing requirements. We explain the expected timeframe when reviewing your request."
+      },
+      {
+        "q": "Do I need an app or a new account?",
+        "a": "We do not offer an app or bank accounts. Contact our team to start; information or documents may be required for your transaction."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Your transfer starts with a conversation",
+    "text": "Tell us the destination and amount. We’ll explain the options and next steps.",
+    "button": "Chat with us on WhatsApp"
+  },
+  "footer": {
+    "tagline": "Money without borders.",
+    "address": "Yemen, Sana'a, Al-Qasr Street, behind Taj Sheba Hotel",
+    "phone": "+967 777 222 786",
+    "email": "Khaldonabarat@gmail.com",
+    "shortAddress": "Sana'a, Yemen",
+    "columns": [
+      {
+        "title": "Company",
+        "links": [
+          "About us",
+          "Branches",
+          "Services",
+          "Destinations"
+        ]
+      },
+      {
+        "title": "Services",
+        "links": [
+          "Remittance",
+          "Foreign Exchange",
+          "Bill Payments",
+          "Corporate"
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          "Help centre",
+          "Pricing",
+          "FAQs",
+          "Contact us"
+        ]
+      }
+    ],
+    "rights": "Khaldon Gamil for Exchange & Transfers — confirm service details with our team before proceeding.",
+    "language": "Language"
+  },
+  "companySpotlight": {
+    "title": "Khaldon Gamil. Your money, closer.",
+    "description": "Send and receive money and exchange currencies with Khaldon Gamil for Exchange & Transfers. Services for individuals and businesses, with a team ready to help you find the right option.",
+    "note": "Contact us for current exchange rates and fees.",
+    "button": "Explore our services",
+    "pause": "Pause animation",
+    "play": "Play animation"
+  },
+  "companyVideos": {
+    "slides": [
+      {
+        "title": "Exchange made for you",
+        "description": "Explore currency exchange options with Khaldon Gamil for Exchange & Transfers. Our team will help you find the service that suits your needs.",
+        "label": "Currency exchange"
+      },
+      {
+        "title": "Transfers that bring you closer",
+        "description": "Send and receive money with Khaldon Gamil. Contact our team to learn about available transfer methods, fees, and details before you begin.",
+        "label": "Money transfers"
+      }
+    ],
+    "supportTitle": "Ask us. Khaldon is here to help.",
+    "supportDescription": "Have a question about currency exchange or money transfers? Contact us directly on WhatsApp for details and guidance from our team.",
+    "button": "Chat on WhatsApp",
+    "pause": "Pause animation",
+    "play": "Play animation",
+    "navigation": "Choose a service"
+  },
+  "cinematicHero": {
+    "title": "Your money. Closer to everywhere.",
+    "description": "Currency exchange and money transfers for individuals and businesses. Find the right service with our team.",
+    "button": "Get in touch",
+    "pause": "Pause video",
+    "play": "Play video",
+    "brand": "Khaldon Gamil · Exchange & Transfers"
+  },
+  "businessFeatures": {
+    "title": "Your financial needs. One place. Khaldon.",
+    "description": "Currency exchange, transfers, and payments for individuals and businesses. Find the right service with the Khaldon team.",
+    "primary": "Chat on WhatsApp",
+    "secondary": "Visit a branch",
+    "previous": "Previous service",
+    "next": "Next service",
+    "navigation": "Khaldon Gamil services",
+    "items": [
+      {
+        "title": "Currency exchange, made easy",
+        "detail": "Exchange options for your needs"
+      },
+      {
+        "title": "Transfers that bring you closer",
+        "detail": "Send and receive money with Khaldon"
+      },
+      {
+        "title": "Simpler everyday payments",
+        "detail": "Explore bill payment services"
+      },
+      {
+        "title": "Solutions for your business",
+        "detail": "Services for individuals and businesses"
+      },
+      {
+        "title": "Here at every step",
+        "detail": "Our team helps you choose"
+      }
+    ]
+  },
+  "destinations": {
+    "title": "Destinations that connect you",
+    "description": "Explore the countries and regions below. Contact us to confirm the transfer route and delivery options for your request.",
+    "note": "Availability, currencies, timing, and fees depend on the destination and executing provider and are confirmed before proceeding.",
+    "button": "Ask about your destination",
+    "names": [
+      "Russia",
+      "Yemen",
+      "Saudi Arabia",
+      "Türkiye",
+      "Egypt",
+      "Malaysia",
+      "China",
+      "UAE",
+      "Iraq",
+      "Sudan",
+      "Algeria",
+      "Morocco",
+      "Tunisia",
+      "Kuwait",
+      "Qatar",
+      "Oman",
+      "United States",
+      "Europe"
+    ]
+  },
+  "quote": {
+    "title": "Know your transfer details before you proceed",
+    "text": "Share the amount, currency, and destination. Our team will explain the exchange rate, fees, and available delivery methods.",
+    "button": "Request transfer details"
+  },
+  "account": {
+    "pause": "Pause animation",
+    "play": "Play animation"
+  },
+  "transferRequest": {
+    "title": "Request a transfer in a few steps",
+    "description": "Choose where you are sending from, the destination, and the amount. We prepare a message so the Khaldon team can explain your options and costs.",
+    "from": "Sending from",
+    "to": "Sending to",
+    "choose": "Choose a country or region",
+    "amount": "Amount to send",
+    "currency": "Sending currency",
+    "name": "Name",
+    "optional": "Optional",
+    "notes": "Notes or preferred delivery method",
+    "button": "Send request via WhatsApp",
+    "notice": "This is an inquiry, not a transfer. WhatsApp opens with a draft for you to review and send. Availability, rates, and fees are confirmed with our team.",
+    "summary": "Your request",
+    "intro": "Hello Khaldon Gamil team, I would like to inquire about a transfer:",
+    "closing": "Please confirm availability, exchange rate, fees, expected payout, timing, and requirements."
+  }
+}
